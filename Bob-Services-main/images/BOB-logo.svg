@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 304 192" role="img" aria-label="BOB Services">
+  <g fill="none" stroke="#40396E" stroke-linecap="round" stroke-linejoin="round">
+    <!-- hand-drawn pen loop -->
+    <path stroke-width="8" d="M30 80 C42 38 108 14 176 13 C246 12 292 44 290 94 C288 144 226 178 150 178 C76 178 14 152 11 108 C9 82 26 60 56 46"/>
+    <!-- doubled pen stroke at the top, like the original -->
+    <path stroke-width="3" d="M72 31 C102 23 142 19 188 19"/>
+    <!-- left B -->
+    <path stroke-width="7" d="M62 64 H85 C99 64 106 70 106 79 C106 88 99 94 85 94 H62 M62 64 V126 M85 94 C101 94 110 100 110 110 C110 120 102 126 86 126 H62"/>
+    <!-- hand-drawn O -->
+    <ellipse stroke-width="4" cx="151" cy="95" rx="38" ry="26" transform="rotate(-2 151 95)"/>
+    <!-- right B -->
+    <path stroke-width="7" d="M196 64 H219 C233 64 240 70 240 79 C240 88 233 94 219 94 H196 M196 64 V126 M219 94 C235 94 244 100 244 110 C244 120 236 126 220 126 H196"/>
+  </g>
+</svg>
